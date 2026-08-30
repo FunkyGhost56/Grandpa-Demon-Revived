@@ -18,8 +18,6 @@ Top 25-2 Demons-**Infinite Demon**
 
 Top 1 Demon-**Grandpa Demon**
 
-![Difficulties](Screenshot_20260829_202643_Geode.png)
-
 # Credits
 
 **ItzKiba** for creating the original Grandpa Demon mod
