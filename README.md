@@ -20,7 +20,7 @@ Top 1 Demon-**Grandpa Demon**
 
 # Credits
 
-[ItzKiba](user:4569963) for creating the original Grandpa Demon mod
+**ItzKiba** for creating the original Grandpa Demon mod
 
 **UltraSoda** for updating mod for newest version of GD
 
