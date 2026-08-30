@@ -7,10 +7,15 @@ Difficulties
 There are 6 difficulties above Extreme based on their positions on AREDL (All Rated Extreme Demons List):
 
 Top 500-251 Demons Supreme Demon
+
 Top 250-151 Demons-Ultimate Demon
+
 Top 150-76 Demons-Legendary Demon
+
 Top 75-26 Demons-Mythical Demon
+
 Top 25-2 Demons-Infinite Demon
+
 Top 1 Demon-Grandpa Demon
 
 Credits
