@@ -4,7 +4,7 @@
 
 # Difficulties
 
-There are **6 new difficulties above Extreme** based on their positions on AREDL (All Rated Extreme Demons List):
+There are **6 new difficulties above Extreme** based on their positions on **AREDL** (All Rated Extreme Demons List):
 
 Top 500-251 Demons-**Supreme Demon**
 
