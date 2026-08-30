@@ -1,8 +1,8 @@
-Grandpa Demon Revived
+# Grandpa Demon Revived
 
-Grandpa Demon Revived is an unofficial remake of original Grandpa Demon mod by ItzKiba. 
+Grandpa Demon Revived is an unofficial remake of original Grandpa Demon mod by ItzKiba, adding 6 new difficulties above Extreme Demon! 
 
-Difficulties
+# Difficulties
 
 There are 6 difficulties above Extreme based on their positions on AREDL (All Rated Extreme Demons List):
 
@@ -18,7 +18,7 @@ Top 25-2 Demons-Infinite Demon
 
 Top 1 Demon-Grandpa Demon
 
-Credits
+# Credits
 
 ItzKiba for creating the original Grandpa Demon mod
 
