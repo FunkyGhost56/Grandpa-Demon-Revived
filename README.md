@@ -26,4 +26,4 @@ Top 1 Demon - **Grandpa Demon**
 
 **Tehno46** for changing and fixing some things
 
-*Note*: Grandpa Demon Revived 1.2.4 is UNOFFICIAL update of original UltraSoda's Grandpa Demon
+*Note*: Grandpa Demon Revived 1.2.4 is **UNOFFICIAL** update of original UltraSoda's Grandpa Demon
