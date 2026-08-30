@@ -21,7 +21,9 @@ Top 1 Demon-Grandpa Demon
 Credits
 
 ItzKiba for creating the original Grandpa Demon mod
+
 UltraSoda for updating mod for newest version of GD
+
 Tehno46 for changing and fixing some things
 
 Note: Grandpa Demon Revived 1.2.4 is UNOFFICIAL update of original UltraSoda's Grandpa Demon
