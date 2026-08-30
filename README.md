@@ -1,3 +1,5 @@
+Grandpa Demon Revived
+
 Grandpa Demon Revived is an unofficial remake of original Grandpa Demon mod by ItzKiba. 
 
 Difficulties
