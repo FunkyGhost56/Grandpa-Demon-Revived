@@ -6,7 +6,7 @@ Grandpa Demon Revived is an unofficial remake of original Grandpa Demon mod by I
 
 There are 6 difficulties above Extreme based on their positions on AREDL (All Rated Extreme Demons List):
 
-Top 500-251 Demons Supreme Demon
+Top 500-251 Demons-Supreme Demon
 
 Top 250-151 Demons-Ultimate Demon
 
