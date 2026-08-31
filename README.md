@@ -18,6 +18,8 @@ Top 25-2 Demons - **Infinite Demon**
 
 Top 1 Demon - **Grandpa Demon**
 
+<img src="demon_filter.jpg" width="100%">
+
 # Credits
 
 **ItzKiba** for creating the original Grandpa Demon mod
