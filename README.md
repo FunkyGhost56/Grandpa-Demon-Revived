@@ -22,10 +22,10 @@ Top 1 Demon - **Grandpa Demon**
 
 # Credits
 
-**ItzKiba** for creating the original Grandpa Demon mod
+[ItzKiba](https://github.com/ItzKiba) for creating the original Grandpa Demon mod
 
-**UltraSoda** for updating mod for newest version of GD
+[UltraSoda](https://github.com/UltraSodaa) for updating mod for newest version of GD
 
-**Tehno46** for changing and fixing some things
+[Tehno46](https://github.com/FunkyGhost56) for changing and fixing some things
 
 *Note*: Grandpa Demon Revived 1.2.4 is **UNOFFICIAL** update of original UltraSoda's Grandpa Demon
